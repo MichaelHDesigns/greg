@@ -10,7 +10,7 @@ function Landing() {
               <div className="wrapper">
                 <div className="inner">
                   <h1 id="text04">
-                    <span>THE</span>
+                    <span>HELLO FRIEND</span>
                     <br />
                     <span>H A N D</span>
                     <br />
